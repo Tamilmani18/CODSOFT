@@ -1,16 +1,10 @@
-# to_do_list
+# To_Do List
 
-A new Flutter project.
+Get more work done with to-do app. and manage, capture, & edit your tasks at anytime..
 
-## Getting Started
+# Screenshots
 
-This project is a starting point for a Flutter application.
+## Home Page
+<img width="215" height="430" alt="" src="https://github.com/Tamilmani18/CODSOFT/assets/144092813/b0dae6d8-4533-4ead-9535-19d894a4043a">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="215" height="430" alt="" src="https://github.com/Tamilmani18/CODSOFT/assets/144092813/6992b60d-5fcf-4df3-b58f-366bfd5f199d">
