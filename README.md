@@ -14,5 +14,3 @@ Daily Quotes: Offers inspirational quotes and allows users to share inspirationa
 
 ## Home Page
 <img width="215" height="430" alt="" src="https://github.com/Tamilmani18/CODSOFT/assets/144092813/a5041d72-1e14-44d4-84dd-4ac715689083">
-
-<img width="215" height="430" alt="" src="https://github.com/Tamilmani18/CODSOFT/assets/144092813/245d32a9-6e58-4293-84ac-2d88de3a6585">
