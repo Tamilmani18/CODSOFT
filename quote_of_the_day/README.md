@@ -5,6 +5,7 @@ A new Flutter project.
 # Screenshots
 
 ## Intro Page
+<img height="50" alt="" src="https://github.com/Tamilmani18/CODSOFT/assets/144092813/04fe7734-532c-47ef-bbd4-ad2fe4e82d2f">
 ![Screenshot_20240123-120016_quote_of_the_day](https://github.com/Tamilmani18/CODSOFT/assets/144092813/04fe7734-532c-47ef-bbd4-ad2fe4e82d2f)
 
 ## Login Page
