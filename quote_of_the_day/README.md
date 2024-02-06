@@ -1,16 +1,16 @@
-# quote_of_the_day
+# Quote_of_the_day
 
 A new Flutter project.
 
-## Getting Started
+# Screenshots
 
-This project is a starting point for a Flutter application.
+## Intro Page
+![Screenshot_20240123-120016_quote_of_the_day](https://github.com/Tamilmani18/CODSOFT/assets/144092813/04fe7734-532c-47ef-bbd4-ad2fe4e82d2f)
 
-A few resources to get you started if this is your first Flutter project:
+## Login Page
+![Screenshot_20240128-140900_quote_of_the_day](https://github.com/Tamilmani18/CODSOFT/assets/144092813/245d32a9-6e58-4293-84ac-2d88de3a6585)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Home Page
+![Screenshot_20240123-120011_quote_of_the_day](https://github.com/Tamilmani18/CODSOFT/assets/144092813/a5041d72-1e14-44d4-84dd-4ac715689083)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20240123-120019_quote_of_the_day](https://github.com/Tamilmani18/CODSOFT/assets/144092813/eb100ab9-4e28-4153-94dd-b1e2581041dd)
