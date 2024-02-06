@@ -2,7 +2,7 @@
 
 # Quote_of_the_day Application
 
-Daily Quotes: Offers inspirational quotes and allows users to share inspirational quotes with friends and also add them to favourite
+Daily Quotes: Offers inspirational quotes and allows users to share inspirational quotes with friends and also save them to favourites.
 
 # Screenshots
 
